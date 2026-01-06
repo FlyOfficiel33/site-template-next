@@ -1,11 +1,66 @@
 {
-  "brand": "Nom entreprise",
-  "tagline": "Slogan",
-  "city": "Ville",
-  "phone": "Téléphone",
-  "email": "Email",
-  "services": [],
-  "about": "",
-  "faq": [],
-  "seo": {}
+  "tagline": "Votre image, notre priorité.",
+  "hero_title": "Créez un site vitrine qui attire vos clients.",
+  "hero_subtitle": "Des solutions digitales sur mesure pour votre entreprise.",
+  "services": [
+    {
+      "title": "Conception de site internet",
+      "description": "Nous développons des sites vitrines responsives et esthétiques.",
+      "bullets": [
+        "Design personnalisé",
+        "Optimisation SEO",
+        "Support technique"
+      ]
+    },
+    {
+      "title": "Stratégie digitale",
+      "description": "Nous vous aidons à élaborer une stratégie efficace.",
+      "bullets": [
+        "Analyse de marché",
+        "Plan de communication",
+        "Gestion des réseaux sociaux"
+      ]
+    },
+    {
+      "title": "Maintenance et évolution",
+      "description": "Assurez le bon fonctionnement et l'actualisation de votre site.",
+      "bullets": [
+        "Mises à jour régulières",
+        "Sécurisation des données",
+        "Support client réactif"
+      ]
+    }
+  ],
+  "about": "Nous sommes une équipe passionnée par le digital, dédiée à aider les entreprises à se démarquer en ligne.",
+  "faq": [
+    {
+      "q": "Combien de temps faut-il pour créer un site web ?",
+      "a": "En général, cela prend entre 4 et 6 semaines."
+    },
+    {
+      "q": "Proposez-vous des sites adaptés aux mobiles ?",
+      "a": "Oui, tous nos sites sont responsives."
+    },
+    {
+      "q": "Faites-vous du référencement naturel ?",
+      "a": "Oui, nous optimisons vos sites pour le SEO."
+    },
+    {
+      "q": "Comment se déroule la maintenance de mon site ?",
+      "a": "Nous proposons des contrats de maintenance adaptés à vos besoins."
+    }
+  ],
+  "seo": {
+    "title": "Création de sites vitrines professionnels",
+    "description": "Découvrez nos services de création de sites vitrines professionnels et conseils digitaux.",
+    "keywords": [
+      "site vitrine",
+      "création site internet",
+      "solutions digitales",
+      "SEO",
+      "maintenance site web"
+    ],
+    "ogTitle": "Créez votre site vitrine avec nous",
+    "ogDescription": "Faites passer votre entreprise au niveau supérieur avec un site vitrine adapté à vos besoins."
+  }
 }
