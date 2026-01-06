@@ -1,66 +1,60 @@
 {
-  "tagline": "L'excellence à votre portée",
-  "hero_title": "Créer votre site vitrine professionnel",
-  "hero_subtitle": "Mettez en avant votre activité avec un site sur mesure",
+  "tagline": "Votre partenaire de confiance pour le succès.",
+  "hero_title": "Bienvenue chez FG",
+  "hero_subtitle": "Expert en BDF à VSFD",
   "services": [
     {
-      "title": "Conception de sites web",
-      "description": "Design moderne et responsive adapté à votre entreprise.",
+      "title": "Conseil stratégique",
+      "description": "Nous proposons des solutions adaptées à vos besoins spécifiques.",
       "bullets": [
-        "Design personnalisé",
-        "Optimisation mobile",
-        "Facilité de navigation"
+        "Analyse de marché",
+        "Planification stratégique",
+        "Optimisation des ressources"
       ]
     },
     {
-      "title": "Référencement SEO",
-      "description": "Améliorez votre visibilité sur les moteurs de recherche.",
+      "title": "Gestion de projet",
+      "description": "Assurez la réussite de vos projets avec nos experts.",
       "bullets": [
-        "Audit SEO",
-        "Stratégie de contenu",
-        "Analyse des mots-clés"
+        "Coordination d'équipe",
+        "Suivi des délais",
+        "Évaluation des performances"
       ]
     },
     {
-      "title": "Maintenance de site",
-      "description": "Assurez la pérennité et la sécurité de votre site.",
+      "title": "Formation et accompagnement",
+      "description": "Développez les compétences de votre équipe avec nos formations sur mesure.",
       "bullets": [
-        "Mises à jour régulières",
-        "Sauvegardes automatisées",
-        "Support technique"
+        "Formations pratiques",
+        "Coaching individualisé",
+        "Support continu"
       ]
     }
   ],
-  "about": "Nous sommes spécialisés dans la création de sites vitrines professionnels qui mettent en valeur votre activité et attirent vos clients.",
+  "about": "FG est une entreprise leader dans le secteur du BDF à VSFD, offrant des solutions clefs en main pour répondre aux ambitions de nos clients. Notre équipe de professionnels s'engage à fournir des conseils et un service d'excellence.",
   "faq": [
     {
-      "q": "Combien de temps faut-il pour créer un site ?",
-      "a": "En général, cela prend entre 4 à 6 semaines selon la complexité."
+      "q": "Quels types de services proposez-vous ?",
+      "a": "Nous offrons des services de conseil stratégique, gestion de projet, et formation."
     },
     {
-      "q": "Est-ce que je peux gérer mon site moi-même ?",
-      "a": "Oui, nous vous formons à l'utilisation de votre site."
+      "q": "Comment puis-je vous contacter ?",
+      "a": "Vous pouvez nous contacter via notre formulaire en ligne ou par téléphone."
     },
     {
-      "q": "Quelles technologies utilisez-vous ?",
-      "a": "Nous utilisons des technologies modernes comme HTML, CSS, JavaScript et CMS."
-    },
-    {
-      "q": "Proposez-vous des services de référencement ?",
-      "a": "Oui, nous offrons des services de référencement pour améliorer votre visibilité."
+      "q": "Proposez-vous des services sur mesure ?",
+      "a": "Oui, nous adaptons nos services en fonction des besoins spécifiques de nos clients."
     }
   ],
   "seo": {
-    "title": "Création de Sites Vitrines Professionnels",
-    "description": "Découvrez nos services de création de sites vitrines sur mesure pour booster votre activité.",
+    "title": "FG | Solutions BDF à VSFD",
+    "description": "FG offre des conseils stratégiques, de la gestion de projet, et des formations sur mesure dans le secteur du BDF à VSFD.",
     "keywords": [
-      "site vitrine",
-      "création site web",
-      "référencement",
-      "design web",
-      "maintenance site"
-    ],
-    "ogTitle": "Création de votre site vitrine",
-    "ogDescription": "Transformez votre présence en ligne avec un site vitrine professionnel."
+      "BDF",
+      "Conseil stratégique",
+      "Gestion de projet",
+      "Formation",
+      "VSFD"
+    ]
   }
 }
