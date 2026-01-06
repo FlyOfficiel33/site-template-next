@@ -1,60 +1,38 @@
 {
-  "tagline": "Votre partenaire de confiance pour le succès.",
-  "hero_title": "Bienvenue chez FG",
-  "hero_subtitle": "Expert en BDF à VSFD",
+  "tagline": "L'excellence en maternelle",
+  "hero_title": "Bienvenue chez Papa",
+  "hero_subtitle": "Votre partenaire premium pour un quotidien de qualité",
   "services": [
     {
-      "title": "Conseil stratégique",
-      "description": "Nous proposons des solutions adaptées à vos besoins spécifiques.",
+      "title": "Accompagnement familial",
+      "description": "Des solutions sur mesure pour votre bien-être familial.",
       "bullets": [
-        "Analyse de marché",
-        "Planification stratégique",
-        "Optimisation des ressources"
-      ]
-    },
-    {
-      "title": "Gestion de projet",
-      "description": "Assurez la réussite de vos projets avec nos experts.",
-      "bullets": [
-        "Coordination d'équipe",
-        "Suivi des délais",
-        "Évaluation des performances"
-      ]
-    },
-    {
-      "title": "Formation et accompagnement",
-      "description": "Développez les compétences de votre équipe avec nos formations sur mesure.",
-      "bullets": [
-        "Formations pratiques",
-        "Coaching individualisé",
-        "Support continu"
+        "Conseils personnalisés",
+        "Support émotionnel",
+        "Ressources de gestion du temps"
       ]
     }
   ],
-  "about": "FG est une entreprise leader dans le secteur du BDF à VSFD, offrant des solutions clefs en main pour répondre aux ambitions de nos clients. Notre équipe de professionnels s'engage à fournir des conseils et un service d'excellence.",
+  "about": "Chez Papa, nous nous dédions à offrir une expérience premium aux familles de Caca. Notre mission est de favoriser un environnement sain et épanouissant pour les enfants.",
   "faq": [
     {
-      "q": "Quels types de services proposez-vous ?",
-      "a": "Nous offrons des services de conseil stratégique, gestion de projet, et formation."
+      "q": "Quels services proposez-vous?",
+      "a": "Nous proposons un accompagnement familial, des conseils personnalisés et une aide à la gestion du temps."
     },
     {
-      "q": "Comment puis-je vous contacter ?",
-      "a": "Vous pouvez nous contacter via notre formulaire en ligne ou par téléphone."
-    },
-    {
-      "q": "Proposez-vous des services sur mesure ?",
-      "a": "Oui, nous adaptons nos services en fonction des besoins spécifiques de nos clients."
+      "q": "Comment puis-je contacter votre équipe?",
+      "a": "Vous pouvez nous contacter via notre formulaire en ligne ou directement par téléphone."
     }
   ],
   "seo": {
-    "title": "FG | Solutions BDF à VSFD",
-    "description": "FG offre des conseils stratégiques, de la gestion de projet, et des formations sur mesure dans le secteur du BDF à VSFD.",
+    "title": "Services premium pour familles à Caca | Papa",
+    "description": "Découvrez Papa, votre expert en accompagnement pour une enfance épanouie et sereine à Caca.",
     "keywords": [
-      "BDF",
-      "Conseil stratégique",
-      "Gestion de projet",
-      "Formation",
-      "VSFD"
+      "accompagnement familial",
+      "services pour enfants",
+      "bien-être familial",
+      "Caca",
+      "Papa"
     ]
   }
 }
