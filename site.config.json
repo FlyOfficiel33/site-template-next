@@ -1,66 +1,66 @@
 {
-  "tagline": "Votre image, notre priorité.",
-  "hero_title": "Créez un site vitrine qui attire vos clients.",
-  "hero_subtitle": "Des solutions digitales sur mesure pour votre entreprise.",
+  "tagline": "L'excellence à votre portée",
+  "hero_title": "Créer votre site vitrine professionnel",
+  "hero_subtitle": "Mettez en avant votre activité avec un site sur mesure",
   "services": [
     {
-      "title": "Conception de site internet",
-      "description": "Nous développons des sites vitrines responsives et esthétiques.",
+      "title": "Conception de sites web",
+      "description": "Design moderne et responsive adapté à votre entreprise.",
       "bullets": [
         "Design personnalisé",
-        "Optimisation SEO",
-        "Support technique"
+        "Optimisation mobile",
+        "Facilité de navigation"
       ]
     },
     {
-      "title": "Stratégie digitale",
-      "description": "Nous vous aidons à élaborer une stratégie efficace.",
+      "title": "Référencement SEO",
+      "description": "Améliorez votre visibilité sur les moteurs de recherche.",
       "bullets": [
-        "Analyse de marché",
-        "Plan de communication",
-        "Gestion des réseaux sociaux"
+        "Audit SEO",
+        "Stratégie de contenu",
+        "Analyse des mots-clés"
       ]
     },
     {
-      "title": "Maintenance et évolution",
-      "description": "Assurez le bon fonctionnement et l'actualisation de votre site.",
+      "title": "Maintenance de site",
+      "description": "Assurez la pérennité et la sécurité de votre site.",
       "bullets": [
         "Mises à jour régulières",
-        "Sécurisation des données",
-        "Support client réactif"
+        "Sauvegardes automatisées",
+        "Support technique"
       ]
     }
   ],
-  "about": "Nous sommes une équipe passionnée par le digital, dédiée à aider les entreprises à se démarquer en ligne.",
+  "about": "Nous sommes spécialisés dans la création de sites vitrines professionnels qui mettent en valeur votre activité et attirent vos clients.",
   "faq": [
     {
-      "q": "Combien de temps faut-il pour créer un site web ?",
-      "a": "En général, cela prend entre 4 et 6 semaines."
+      "q": "Combien de temps faut-il pour créer un site ?",
+      "a": "En général, cela prend entre 4 à 6 semaines selon la complexité."
     },
     {
-      "q": "Proposez-vous des sites adaptés aux mobiles ?",
-      "a": "Oui, tous nos sites sont responsives."
+      "q": "Est-ce que je peux gérer mon site moi-même ?",
+      "a": "Oui, nous vous formons à l'utilisation de votre site."
     },
     {
-      "q": "Faites-vous du référencement naturel ?",
-      "a": "Oui, nous optimisons vos sites pour le SEO."
+      "q": "Quelles technologies utilisez-vous ?",
+      "a": "Nous utilisons des technologies modernes comme HTML, CSS, JavaScript et CMS."
     },
     {
-      "q": "Comment se déroule la maintenance de mon site ?",
-      "a": "Nous proposons des contrats de maintenance adaptés à vos besoins."
+      "q": "Proposez-vous des services de référencement ?",
+      "a": "Oui, nous offrons des services de référencement pour améliorer votre visibilité."
     }
   ],
   "seo": {
-    "title": "Création de sites vitrines professionnels",
-    "description": "Découvrez nos services de création de sites vitrines professionnels et conseils digitaux.",
+    "title": "Création de Sites Vitrines Professionnels",
+    "description": "Découvrez nos services de création de sites vitrines sur mesure pour booster votre activité.",
     "keywords": [
       "site vitrine",
-      "création site internet",
-      "solutions digitales",
-      "SEO",
-      "maintenance site web"
+      "création site web",
+      "référencement",
+      "design web",
+      "maintenance site"
     ],
-    "ogTitle": "Créez votre site vitrine avec nous",
-    "ogDescription": "Faites passer votre entreprise au niveau supérieur avec un site vitrine adapté à vos besoins."
+    "ogTitle": "Création de votre site vitrine",
+    "ogDescription": "Transformez votre présence en ligne avec un site vitrine professionnel."
   }
 }
